@@ -48,7 +48,6 @@ PROJECT LOGO
 
 
 
-ABOUT THE PROJECT
 ## About The Project
 
  Love&Care is program to deliver stray animals a good life, good food and care. We are here to provide a platform to establishing events for Animal Welfare.
