@@ -1,5 +1,5 @@
 
-PROJECT LOGO
+<!-- PROJECT LOGO -->
 <br />
 <p align="center">
   <a href="./public/img/logo5.png">
@@ -85,7 +85,7 @@ PROJECT LOGO
 
 1. Clone the repo
    ```sh
-   git clonehttps://github.com/Nithya-B-AU16/loveNcare.git
+   git clone https://github.com/Nithya-B-AU16/lovencare-project
    ```
 2. Install NPM packages
    ```sh
